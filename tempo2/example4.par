@@ -1,0 +1,25 @@
+PSRJ           0835-4510
+PSRB           0833-45
+RAJ            08:35:20.61149
+DECJ           -45:10:34.8751           
+POSEPOCH       51544
+PMRA           -49.68                   6.000e-02
+PMDEC          29.9                     1.000e-01
+PX             3.5                   
+F0             11.1924198755       1
+F1             -1.565e-11  1 
+F2             1.25450e-21        0
+PEPOCH         53229.5                       
+DMEPOCH        53229.5                     
+DM             70
+START          53193.242765540653838       
+FINISH         53959.622636608331756       
+TRACK          0                           
+TZRMJD         53230.583499730645915       
+TZRFRQ         1668                     
+TZRSITE        hart   
+EPHVER         5                           
+CLK            TT(TAI)
+MODE 1
+EPHEM          DE405
+NITS           1
